@@ -16,7 +16,7 @@ import org.apache.mahout.clustering.kmeans.KMeansDriver;
 import org.apache.mahout.common.distance.EuclideanDistanceMeasure;
 import org.apache.mahout.math.RandomAccessSparseVector;
 import org.apache.mahout.math.Vector;
-import org.apache.mahout.math.VectorWritable;
+import org.apache.mahout.math.VectorWritable; 
 
 public class SimpleKMeansClustering {
   public static final double[][] points = { {1, 1}, {2, 1}, {1, 2},
