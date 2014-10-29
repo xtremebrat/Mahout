@@ -1,0 +1,7 @@
+A Product / Movie Recommender.
+
+The input file is in the format:
+User ID, Movie ID, Rating
+
+Recommendation based on Collaborative Filtering algorithm. 
+Pearson Similarity, Cosine or Log Likehood can be used for the recommendation.
